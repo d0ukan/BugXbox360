@@ -1,0 +1,17 @@
+C:\Users\DOU\source\repos\BugXbox360\BugXbox360\bin\Release\BugXbox360.exe.config
+C:\Users\DOU\source\repos\BugXbox360\BugXbox360\bin\Release\BugXbox360.exe
+C:\Users\DOU\source\repos\BugXbox360\BugXbox360\bin\Release\BugXbox360.pdb
+C:\Users\DOU\source\repos\BugXbox360\BugXbox360\bin\Release\SharpDX.dll
+C:\Users\DOU\source\repos\BugXbox360\BugXbox360\bin\Release\SharpDX.XInput.dll
+C:\Users\DOU\source\repos\BugXbox360\BugXbox360\bin\Release\SharpDX.pdb
+C:\Users\DOU\source\repos\BugXbox360\BugXbox360\bin\Release\SharpDX.XInput.pdb
+C:\Users\DOU\source\repos\BugXbox360\BugXbox360\bin\Release\SharpDX.XInput.xml
+C:\Users\DOU\source\repos\BugXbox360\BugXbox360\obj\Release\BugXbox360.csproj.AssemblyReference.cache
+C:\Users\DOU\source\repos\BugXbox360\BugXbox360\obj\Release\BugXbox360.csproj.SuggestedBindingRedirects.cache
+C:\Users\DOU\source\repos\BugXbox360\BugXbox360\obj\Release\BugXbox360.Form1.resources
+C:\Users\DOU\source\repos\BugXbox360\BugXbox360\obj\Release\BugXbox360.Properties.Resources.resources
+C:\Users\DOU\source\repos\BugXbox360\BugXbox360\obj\Release\BugXbox360.csproj.GenerateResource.cache
+C:\Users\DOU\source\repos\BugXbox360\BugXbox360\obj\Release\BugXbox360.csproj.CoreCompileInputs.cache
+C:\Users\DOU\source\repos\BugXbox360\BugXbox360\obj\Release\BugXbox360.csproj.CopyComplete
+C:\Users\DOU\source\repos\BugXbox360\BugXbox360\obj\Release\BugXbox360.exe
+C:\Users\DOU\source\repos\BugXbox360\BugXbox360\obj\Release\BugXbox360.pdb
